@@ -1,9 +1,14 @@
 {
   "name": "jest-slow-test-highlighter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A custom Jest reporter that identifies and reports on the slowest running tests in your test suite.",
   "main": "index.js",
-  "keywords": ["jest", "slow-tests", "reporter", "performance"],
+  "keywords": [
+    "jest",
+    "slow-tests",
+    "reporter",
+    "performance"
+  ],
   "author": "Jonatan Martín Garcia",
   "license": "MIT",
   "peerDependencies": {
@@ -12,5 +17,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Neizan93/jest-slow-test-highlighter.git"
-  }  
+  }
 }
